@@ -6,5 +6,8 @@ And you don't have to change a thing.
 
 
 NOTE: It still needs improvement and have an issue of lagging after sometime 😓 and to add on i am unable to get the solution to the problem 🥺 but I still have my hopes turned on and i am still trying to get a solution to my problem Hopefully will solve it🤞
+
 # View
 https://anshika75.github.io/Love-the-way-you-are/
+
+# Note: Mobile View only, high internet required
